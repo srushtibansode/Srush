@@ -1,0 +1,15 @@
+React steps
+make sure npm file is installed in users local roaming appdata
+after that 
+npx create-react-app test
+ cd test
+npm start
+ctrl c
+npm install --save-dev web-vitals
+npm start
+ctrl c
+
+
+Node steps
+new folder
+npm init
